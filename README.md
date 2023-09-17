@@ -1,1 +1,1 @@
-# JavaScript_1---Algoritimos-de-ordenacao
+# JavaScript 1 - Algoritimos de ordenação
